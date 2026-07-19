@@ -33,6 +33,8 @@ Venimos del Módulo 3, donde agregamos ruido AWGN al canal, y ahora se quiere mo
 
     - Transmisión y detección de símbolos LORA con un solo SDR (loopback digital y loopback por antena)
 
+    > Segundo paper
+
     - Preambulo y detector de trama
 
     - Alineación de ventana
